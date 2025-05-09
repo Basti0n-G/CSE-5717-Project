@@ -3,6 +3,7 @@ import torchvision
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
 import pandas as pd
+import argparse
 
 def load_cifar10():
     transform = transforms.Compose([
