@@ -13,6 +13,7 @@ Simulates Federated Learning under adversarial attacks using the FedRoLa defense
 - `run_experiments.py`: Automatically run experiments with different numbers of malicious clients.
 - `requirements.txt`: Required Python packages.
 - `plots/`: Auto-saved graphs from experiments.
+- `data/cifar-10-python.tar.gz`: CIFAR-10 dataset (Too big to be included in repo).
 
 ## Installation
 
